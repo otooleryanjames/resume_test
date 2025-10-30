@@ -1,0 +1,304 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+<!-- TITLE -->
+
+\begin{huge}\begin{center}{\bf RYAN O'TOOLE}\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+
+\begin{center}\href{mailto::otooleryanjames@gmail.com}{otooleryanjames@gmail.com} ∙ \href{https://github.com/otooleryanjames}{Github} ∙ \href{https://www.linkedin.com/in/ryan-otoole/}{LinkedIn}
+\end{center}
+\vspace{5pt}
+
+**Summary:** Creative and mindful researcher with a Master of Survey
+Research degree. Experienced with Qualitative (In Depth Interviews &
+Focus Groups) and Quantitative (Survey Research) methods. Strong project
+and client management, project design expertise, and independent
+research experience through multiple professional roles. Comfort with
+programming in R to wrangle, clean, analyze, and visualize data.
+
+\vspace{5pt}
+
+<!-- EDUCATION: 1ST BULLET -->
+
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    % Left column: University info
+    \begin{flushleft}
+      {\bf Master of Arts: Survey Research}\\
+      University of Connecticut, School of Public Policy
+    \end{flushleft}
+
+    % Right column: Year
+    \begin{flushright}
+      2022
+    \end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{0.05cm}
+
+<!-- EDUCATION: 2ND BULLET -->
+
+\begin{large}
+  \begin{multicols}{2}
+    % Left column: University info
+    \begin{flushleft}
+      {\bf Master of Science: Neurobiology}\\
+      Dartmouth College, Program in Experimental and Molecular Medicine
+    \end{flushleft}
+
+    % Right column: Year
+    \begin{flushright}
+      2018
+    \end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{0.05cm}
+
+<!-- EDUCATION: 3rd BULLET -->
+
+\begin{large}
+  \begin{multicols}{2}
+    % Left column: University info
+    \begin{flushleft}
+      {\bf Bachelor of Science: Neuroscience \& Behavior}\\
+      University of New Hampshire
+    \end{flushleft}
+
+    % Right column: Year
+    \begin{flushright}
+      2012
+    \end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{5pt}
+
+<!-- EXPERIENCE : 1ST BULLET-->
+
+\begin{large}
+  {\bf EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  % Company name
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://trailstowellness.org/}{TRAILS}}\end{flushleft}
+    \begin{flushright}Remote\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  
+  % First role
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Data Manager, Evaluation Team}\end{flushleft}
+    \begin{flushright}May 2025 - Nov 2025\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.5cm}
+
+-   Created, launched, managed, and reported on surveys for multiple
+    tiers of mental health training and programming for school staff
+-   Developed and maintained survey instruments, conducted data cleaning
+    and analysis, and supported evaluation reporting across pre/post
+    training cycles
+
+\vspace{0.5pt}
+
+\begin{large}
+  % Second role
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Survey Research Analyst, Evaluation Team}\end{flushleft}
+    \begin{flushright}September 2023–May 2025\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.5cm}
+
+-   Managed and ran training surveys
+
+<!-- EXPERIENCE : 2ND BULLET -->
+
+\begin{large}
+  % Company name
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.panterra.global/research}{ClearPath Strategies (Now "Panterra")}}\end{flushleft}
+    \begin{flushright}Remote\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  
+  % First role
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Analyst}\end{flushleft}
+    \begin{flushright}Aug 2022 - Sep 2023\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.5cm}
+
+-   Drafts surveys and discussion guides for quantitative and
+    qualitative research projects.
+-   Analyzes data and creates reports to communicate both key findings
+    and strategic insights.
+-   Manages vendor communications and anticipates project needs.
+
+\vspace{0.5pt}
+
+\begin{large}
+  % Second role
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Intern}\end{flushleft}
+    \begin{flushright}May 2022 – Aug 2022\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.5cm}
+
+-   Writes outlines and researched background materials on specific
+    topics that served as summaries for Managers and Analysts when
+    designing topic guides, surveys, or proposals
+-   Tests survey links for correctness, translations, and logic flows
+    and proofed survey data to ensure accuracy and readability for
+    clients. Trained in Quality Control for assessing survey launch
+    data.
+-   Recorded and took verbatim notes for In-Depth Interviews (IDIs), sat
+    in on Focus Group meetings, and frequently pulled quotes and
+    compiled data when helping to write reports and build decks for
+    qualitative research.
+-   Researched and built quotas for sub-populations when fielding
+    international surveys to assist with statistical weighting.
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 3RD BULLET -->
+
+\begin{large}
+  % Company name
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://government.kellyservices.us/}{Kelly Government Solutions}}\end{flushleft}
+    \begin{flushright}Bethesda, MD\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  
+  % First role
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Scientific Recruiter}\end{flushleft}
+    \begin{flushright}Oct 2018 - Aug 2021\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.5cm}
+
+-   Filled \>100 technical and highly specialized positions at the
+    National Institutes of Health in three years while working across a
+    diverse subset of scientific specialties (Bioinformatics,
+    Neurobiology, Immunology, Scientific Writing, etc.).
+-   Created advanced tools in Excel to track correspondence deadlines,
+    monitor recruiter metrics, and simplify development of complex
+    Boolean search strings.
+-   Independently managed up to 25 recruitments/projects at a time with
+    varying deadlines and communication trails.
+-   Facilitated priority presentations, calls, and interviews with
+    director-level NIH members, including Dr. Francis Collins, where
+    professionalism and attention to detail was critical to complete
+    recruitments.
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 4TH BULLET -->
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.synapticbiology.com/}{Dartmouth College - Hoppa Lab}}\end{flushleft}
+    \begin{flushright}Hanover, NH\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Graduate Researcher}\end{flushleft}
+    \begin{flushright}Aug 2014 - Sep 2018\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+
+-   Published novel work in Nature Communications on a modified
+    optogenetic indicator to fluorescently label ‘active’ pre- synaptic
+    sites in neurons.
+-   Independently designed and troubleshooted an elaborate experimental
+    scheme using confocal microscopy, digital micromirrors, and neuronal
+    stimulation to study temporal precision of molecular
+    photoconversion.
+-   Prepared figures and materials for methods and results sections for
+    research papers towards publication and developed whole poster
+    presentations for Society for Neuroscience and the Federation of
+    European Neuroscience Societies.
+-   Taught a laboratory course in Cell Biology (Spring 2018) to
+    Dartmouth undergraduates, attended lectures, ran lab sections,
+    graded reports, and provided office hours.
+
+\vspace{7pt}
+
+<!-- Publications -->
+
+\begin{large}
+  {\bf PUBLICATIONS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+
+Muthusamy, N., Williams, T. I., **O’Toole, R.**, Brudvig, J. J., Adler,
+K. B., Weimer, J. M., ... & Ghashghaei, H. T. (2022).
+Phosphorylation-dependent proteome of Marcks in ependyma during aging
+and behavioral homeostasis in the mouse forebrain.
+\textit{Geroscience, 44(4), 2077-2094.}
+
+\vspace{1pt}
+
+Perez-Alvarez, A, Fearey, B, **O’Toole, R.J.**, … Hoppa, M.B., Gee,
+C.E., & Oertner T.G. (2018) Freeze-frame imaging of synaptic activity
+using SynTagMA.
+\textit{Nat Commun 11, 2464 (2020) https://doi.org/10.1038/s41467-020-16315-4}
+
+\vspace{1pt}
+
+Baker, A.L., **O’Toole, R.J.**, and Gulledge, A.T. (2018) Preferential
+cholinergic excitation of corticopontine neurons.
+\textit{J Physiol 596 (9): 1659-1679}
+
+\vspace{1pt}
+
+Leber, A.B., Gwinn, R.E., Hong, Y., and **O’Toole, R.J.** (2016).
+Implicitly learned suppression of irrelevant spatial locations.
+\textit{Psychonomic Bulletin \& Review (6) 1873-1881}
+
+\vspace{1pt}
+
+Watzlawik, J.O., Kahoud, R.J., **O’Toole, R.J.**, White, K.A., Ogden,
+A.R., Painter, M.M., Wootla, B., Papke, L.M., Denic, A., Weimer, J.M.,
+Carey, W.A., and Rodriguez, M. (2015). Abbreviated exposure to hypoxia
+is sufficient to induce CNS dysmyelination, modulate spinal motor neuron
+composition, and impair motor development in neonatal mice.
+\textit{PLoS One 10(5): e0128007}
