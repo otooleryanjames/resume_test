@@ -6,7 +6,7 @@ format:
       - top=10mm
       - left=15mm
       - right=15mm
-      - bottom=5mm
+      - bottom=10mm
       - heightrounded
     fontfamily: libertine
     colorlinks: true
@@ -35,12 +35,17 @@ editor:
 \end{center}
 \vspace{5pt}
 
-**Summary:** Creative and mindful researcher with a Master of Survey
-Research degree. Experienced with Qualitative (In Depth Interviews &
-Focus Groups) and Quantitative (Survey Research) methods. Strong project
-and client management, project design expertise, and independent
-research experience through multiple professional roles. Comfort with
-programming in R to wrangle, clean, analyze, and visualize data.
+<!-- Summary -->
+
+\begin{large}
+  {\bf SUMMARY}
+  \vspace{3pt}
+  \hrule
+\end{large} 
+
+\vspace{3pt}
+
+Collaborative and mindful researcher with a Master of Arts degree in Survey Research. Experienced in both Qualitative (In-Depth Interviews \& Focus Groups) and Quantitative (Survey Research) methods. Skilled in project design, client management, and developing independent research and analysis plans. Proficient R user for data cleaning and analyzing large data files (tidyverse), developing re-usable functions and scripts, as well as data visualization (ggplot2). Experienced using Quarto for report generation and Git for collaborative version control. Practiced Qualtrics user with expertise in advanced logic programming with a focus on user-centered survey design.
 
 \vspace{5pt}
 
@@ -119,37 +124,48 @@ programming in R to wrangle, clean, analyze, and visualize data.
   
   % First role
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Data Manager, Evaluation Team}\end{flushleft}
+    \begin{flushleft}\textit{Data Manager}\end{flushleft}
     \begin{flushright}May 2025 - Nov 2025\end{flushright}
   \end{multicols}
 \end{large}
-\vspace{-0.5cm}
+\vspace{-0.16cm}
 
--   Created, launched, managed, and reported on surveys for multiple
-    tiers of mental health training and programming for school staff
--   Developed and maintained survey instruments, conducted data cleaning
-    and analysis, and supported evaluation reporting across pre/post
-    training cycles
+-   Led improvements to survey distribution processes by lean testing
+    communication and incentive strategies.  Including the development of research proposals, analysis plans, and providing written reports to provide actionable insights to increase response rates and minimize non-response bias.
+-   Recommended improvements to survey logic and question design to maximize respondent engagement and data quality, with an eye towards response biases.
+-   Built templatized R + Quarto pipelines to programmatically clean and
+    report on Qualtrics data, improving reporting speed and team
+    bandwidth.
+-   Engaged with version control and collaborative script development using
+    Git, to ensure reproducibility and consistency across evaluation
+    outputs.
 
 \vspace{0.5pt}
 
 \begin{large}
   % Second role
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Survey Research Analyst, Evaluation Team}\end{flushleft}
+    \begin{flushleft}\textit{Survey Research Analyst}\end{flushleft}
     \begin{flushright}September 2023–May 2025\end{flushright}
   \end{multicols}
 \end{large}
-\vspace{-0.5cm}
+\vspace{-0.16cm}
 
--   Managed and ran training surveys
+-   Created, launched, managed, and reported on surveys for multiple
+    tiers of mental health training and programming for school staff.
+-   Managed annual survey revisions by aggregating feedback from
+    colleagues, forming decisions based on the goals of the evaluation
+    team, and programming surveys.
+-   Responsible for delivering regular and ad-hoc reporting requests on
+    both survey data, and implementation metrics by using internal
+    databases and publicly available education sources.
 
 <!-- EXPERIENCE : 2ND BULLET -->
 
 \begin{large}
   % Company name
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://www.panterra.global/research}{ClearPath Strategies (Now "Panterra")}}\end{flushleft}
+    \begin{flushleft}{\bf \href{https://www.panterra.global/research}{ClearPath Strategies (Now \textit{Panterra})}}\end{flushleft}
     \begin{flushright}Remote\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -160,13 +176,14 @@ programming in R to wrangle, clean, analyze, and visualize data.
     \begin{flushright}Aug 2022 - Sep 2023\end{flushright}
   \end{multicols}
 \end{large}
-\vspace{-0.5cm}
+\vspace{-0.16cm}
 
 -   Drafts surveys and discussion guides for quantitative and
-    qualitative research projects.
--   Analyzes data and creates reports to communicate both key findings
-    and strategic insights.
--   Manages vendor communications and anticipates project needs.
+    qualitative research projects. Working with vendors and moderators over the full life cycle of a project to ensure each project was reliably delivered.
+-   Analyzed cleaned data and created decks to communicate key research findings
+    along with strategic insights.
+-   Researched and built quotas for sub-populations when fielding
+    international surveys to assist with statistical weighting.
 
 \vspace{0.5pt}
 
@@ -177,21 +194,19 @@ programming in R to wrangle, clean, analyze, and visualize data.
     \begin{flushright}May 2022 – Aug 2022\end{flushright}
   \end{multicols}
 \end{large}
-\vspace{-0.5cm}
+\vspace{-0.16cm}
 
--   Writes outlines and researched background materials on specific
+-   Wrote outlines and researched background materials on specific
     topics that served as summaries for Managers and Analysts when
     designing topic guides, surveys, or proposals
 -   Tests survey links for correctness, translations, and logic flows
     and proofed survey data to ensure accuracy and readability for
     clients. Trained in Quality Control for assessing survey launch
-    data.
--   Recorded and took verbatim notes for In-Depth Interviews (IDIs), sat
+    data (bot detection and straightlined responses).
+-   Recorded and took verbatim notes for In-Depth Interviews, sat
     in on Focus Group meetings, and frequently pulled quotes and
     compiled data when helping to write reports and build decks for
     qualitative research.
--   Researched and built quotas for sub-populations when fielding
-    international surveys to assist with statistical weighting.
 
 \vspace{7pt}
 
@@ -211,7 +226,7 @@ programming in R to wrangle, clean, analyze, and visualize data.
     \begin{flushright}Oct 2018 - Aug 2021\end{flushright}
   \end{multicols}
 \end{large}
-\vspace{-0.5cm}
+\vspace{-0.16cm}
 
 -   Filled \>100 technical and highly specialized positions at the
     National Institutes of Health in three years while working across a
@@ -269,32 +284,34 @@ programming in R to wrangle, clean, analyze, and visualize data.
   \hrule
 \end{large}
 
+\vspace{3pt}
+
 Muthusamy, N., Williams, T. I., **O’Toole, R.**, Brudvig, J. J., Adler,
 K. B., Weimer, J. M., ... & Ghashghaei, H. T. (2022).
 Phosphorylation-dependent proteome of Marcks in ependyma during aging
 and behavioral homeostasis in the mouse forebrain.
 \textit{Geroscience, 44(4), 2077-2094.}
 
-\vspace{1pt}
+\vspace{2pt}
 
 Perez-Alvarez, A, Fearey, B, **O’Toole, R.J.**, … Hoppa, M.B., Gee,
 C.E., & Oertner T.G. (2018) Freeze-frame imaging of synaptic activity
 using SynTagMA.
 \textit{Nat Commun 11, 2464 (2020) https://doi.org/10.1038/s41467-020-16315-4}
 
-\vspace{1pt}
+\vspace{2pt}
 
 Baker, A.L., **O’Toole, R.J.**, and Gulledge, A.T. (2018) Preferential
 cholinergic excitation of corticopontine neurons.
 \textit{J Physiol 596 (9): 1659-1679}
 
-\vspace{1pt}
+\vspace{2pt}
 
 Leber, A.B., Gwinn, R.E., Hong, Y., and **O’Toole, R.J.** (2016).
 Implicitly learned suppression of irrelevant spatial locations.
 \textit{Psychonomic Bulletin \& Review (6) 1873-1881}
 
-\vspace{1pt}
+\vspace{2pt}
 
 Watzlawik, J.O., Kahoud, R.J., **O’Toole, R.J.**, White, K.A., Ogden,
 A.R., Painter, M.M., Wootla, B., Papke, L.M., Denic, A., Weimer, J.M.,
