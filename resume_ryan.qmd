@@ -58,7 +58,7 @@ Collaborative and mindful researcher with a Master of Arts degree in Survey Rese
   \begin{multicols}{2}
     % Left column: University info
     \begin{flushleft}
-      {\bf Master of Arts: Survey Research}\\
+      {\bf Master of Arts: Survey Research; Concentration in Statistics}\\
       University of Connecticut, School of Public Policy
     \end{flushleft}
 
@@ -135,7 +135,7 @@ Collaborative and mindful researcher with a Master of Arts degree in Survey Rese
 -   Recommended improvements to survey logic and question design to maximize respondent engagement and data quality, with an eye towards response biases.
 -   Built templatized R + Quarto pipelines to programmatically clean and
     report on Qualtrics data, improving reporting speed and team
-    bandwidth.
+    bandwidth. Familiar with leveraging AI (GPT) to help with script debugging, troubleshooting, and improvements.
 -   Engaged with version control and collaborative script development using
     Git, to ensure reproducibility and consistency across evaluation
     outputs.
@@ -153,7 +153,7 @@ Collaborative and mindful researcher with a Master of Arts degree in Survey Rese
 
 -   Created, launched, managed, and reported on surveys for multiple
     tiers of mental health training and programming for school staff.
--   Managed annual survey revisions by aggregating feedback from
+-   Cross-functional collaboration and management of annual survey revisions by aggregating feedback from
     colleagues, forming decisions based on the goals of the evaluation
     team, and programming surveys.
 -   Responsible for delivering regular and ad-hoc reporting requests on
