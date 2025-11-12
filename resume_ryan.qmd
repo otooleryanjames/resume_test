@@ -45,7 +45,7 @@ editor:
 
 \vspace{3pt}
 
-Collaborative and mindful researcher with a Master of Arts degree in Survey Research. Experienced in both Qualitative (In-Depth Interviews \& Focus Groups) and Quantitative (Survey Research) methods. Skilled in project design, client management, and developing independent research and analysis plans. Proficient R user for data cleaning and analyzing large data files (tidyverse), developing re-usable functions and scripts, as well as data visualization (ggplot2). Experienced using Quarto for report generation and Git for collaborative version control. Practiced Qualtrics user with expertise in advanced logic programming with a focus on user-centered survey design.
+Collaborative and mindful researcher with a Master of Arts degree in Survey Research. Experienced in both Qualitative (In-Depth Interviews \& Focus Groups) and Quantitative (Survey Research) methods. Skilled in project design, client management, and developing independent research and analysis plans. Proficient R user for data cleaning and analyzing large data files, developing re-usable functions and scripts, as well as data visualization (tidyverse, ggplot2). Experienced using Quarto for report generation and Git for collaborative version control. Practiced Qualtrics user with expertise in advanced logic programming with a focus on user-centered survey design.
 
 \vspace{5pt}
 
@@ -178,12 +178,10 @@ Collaborative and mindful researcher with a Master of Arts degree in Survey Rese
 \end{large}
 \vspace{-0.16cm}
 
--   Drafts surveys and discussion guides for quantitative and
-    qualitative research projects. Working with vendors and moderators over the full life cycle of a project to ensure each project was reliably delivered.
--   Analyzed cleaned data and created decks to communicate key research findings
-    along with strategic insights.
--   Researched and built quotas for sub-populations when fielding
-    international surveys to assist with statistical weighting.
+-   Designed and programmed quantitative and qualitative research studies (surveys, discussion guides, focus groups) for global consumer and B2B clients.
+-   Partnered with vendors, moderators, and internal stakeholders to manage projects from scoping through insight delivery, ensuring high-quality and on-time execution.
+-   Developed story-driven report decks to translate complex results into strategic, actionable insights for clients.
+-   Built quotas for sub-populations to support representative sampling and accurate weighting in international survey research.
 
 \vspace{0.5pt}
 
