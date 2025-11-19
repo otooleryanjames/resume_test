@@ -135,7 +135,7 @@ Collaborative and mindful researcher with a Master of Arts degree in Survey Rese
 -   Recommended improvements to survey logic and question design to maximize respondent engagement and data quality, with an eye towards response biases.
 -   Built templatized R + Quarto pipelines to programmatically clean and
     report on Qualtrics data, improving reporting speed and team
-    bandwidth. Familiar with leveraging AI (GPT) to help with script debugging, troubleshooting, and improvements.
+    bandwidth.
 -   Engaged with version control and collaborative script development using
     Git, to ensure reproducibility and consistency across evaluation
     outputs.
